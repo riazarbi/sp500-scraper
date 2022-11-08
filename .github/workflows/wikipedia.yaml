@@ -3,7 +3,7 @@ name: Wikipedia
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '36 * * * *'
+    - cron:  '36 9 * * 1-5'
 
 jobs:
   scheduled:
