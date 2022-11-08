@@ -11,7 +11,7 @@ jobs:
     container: 
       image: riazarbi/datasci-quant:focal
       options: --user root
-      steps:
+    steps:
       - name: Check out this repo
         uses: actions/checkout@v3
       - name: Save ishares data
