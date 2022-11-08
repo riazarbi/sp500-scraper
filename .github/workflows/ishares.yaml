@@ -12,13 +12,8 @@ jobs:
       image: riazarbi/datasci-quant:focal
       options: --user root
     steps:
-      - name: upgrade git
-        run: |
-          apt-get update
-          apt-get install -y git          
-          git --version
       - name: Check out this repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v2
       - name: Save ishares data
         run: |-
           Rscript ishares.R
