@@ -8,7 +8,9 @@ on:
 jobs:
   scheduled:
     runs-on: ubuntu-latest
-    container: riazarbi/datasci-quant:focal
+    container: 
+      image: riazarbi/datasci-quant:focal
+      options: --user root
     steps:
       - name: Check out this repo
         uses: actions/checkout@v3
