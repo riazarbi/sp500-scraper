@@ -12,5 +12,5 @@ df <- tq_index("SP500")
 
 message(paste0("saving ", date_string))
 
-write_parquet(df_content, parquet_path)
-write_csv_arrow(df_content, csv_path)
+write_parquet(df, parquet_path)
+write_csv_arrow(df, csv_path)
