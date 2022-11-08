@@ -1,0 +1,502 @@
+"symbol","name","sector","asset_class","market_value","weight_pct","notional_value","shares","CUSIP","ISIN","SEDOL","price","location","exchange","market_currency","fx_rate","accrual_date","date"
+"GHC","GRAHAM HOLDINGS COMPANY CO CLASS B","Consumer Discretionary","Equity",4625633.25,0.029552,,11853,"939640108","US9396401088","2942003",390.25,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"MDP","MEREDITH CORP","Consumer Discretionary","Equity",1224388.16,0.007822,,71518,"589433101","US5894331017","2578516",17.12,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"AZO","AUTOZONE INC","Consumer Discretionary","Equity",10613248.59,0.067805,,76097,"053332102","US0533321024","2065955",139.47,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"ISRG","INTUITIVE SURGICAL INC","Health Care","Equity",9894806.82,0.063215,,77918,"46120E602","US46120E6023","2871301",126.99,"United States","NASDAQ","USD",1,"-",2008-12-31
+"GAS.2","NICOR INC","Utilities","Equity",3112599.78,0.019886,,89597,"654086107","US6540861076","2639509",34.74,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"DNB","DUN & BRADSTREET CORP","Industrials","Equity",8275762.8,0.052872,,107199,"26483E100","US26483E1001","2636254",77.2,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"MIL.","MILLIPORE CORP","Health Care","Equity",5663336,0.036182,,109925,"601073109","US6010731098","2594437",51.52,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"R","RYDER SYSTEM INC","Industrials","Equity",4289184.34,0.027402,,110603,"783549108","US7835491082","2760669",38.78,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"SHLDQ","SEARS HOLDINGS CORP","Consumer Discretionary","Equity",4301082.12,0.027478,,110653,"812350106","US8123501061","2634805",38.87,"United States","Non-Nms Quotation Service (Nnqs)","USD",1,"-",2008-12-31
+"RL","POLO RALPH LAUREN CORP.","Consumer Discretionary","Equity",5079199.32,0.03245,,111852,"731572103","US7315721032","2018409",45.41,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"FLS","FLOWSERVE CORP","Industrials","Equity",5788342.5,0.03698,,112395,"34354P105","US34354P1057","2288406",51.5,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"CF","CF INDUSTRIES HOLDINGS INC","Materials","Equity",5539545.44,0.035391,,112684,"125269100","US1252691001","B0G4K50",49.16,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"SNA","SNAP ON INC","Consumer Discretionary","Equity",4516098.4,0.028852,,114680,"833034101","US8330341012","2818740",39.38,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"HAR","HARMAN INTERNATIONAL INC","Consumer Discretionary","Equity",1960973.49,0.012528,,117213,"413086109","US4130861093","2411138",16.73,"United States","-","USD",1,"-",2008-12-31
+"BDK","THE BLACK & DECKER CORPORATION","Consumer Discretionary","Equity",5008294.47,0.031997,,119787,"091797100","US0917971006","2101503",41.81,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"WYNN","WYNN RESORTS LTD","Consumer Discretionary","Equity",5176427.4,0.033071,,122490,"983134107","US9831341071","2963811",42.26,"United States","NASDAQ","USD",1,"-",2008-12-31
+"GWW","WW GRAINGER INC","Industrials","Equity",10154276.64,0.064873,,128796,"384802104","US3848021040","2380863",78.84,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"MX4A","CME GROUP INC CLASS A","Financials","Equity",27709846.5,0.177031,,133150,"12572Q105","US12572Q1058","B012KV5",208.11,"United States","Boerse Berlin","USD",1,"-",2008-12-31
+"CEPH","CEPHALON INC","Health Care","Equity",10495159.2,0.067051,,136230,"156708109","US1567081096","2185143",77.04,"United States","NASDAQ","USD",1,"-",2008-12-31
+"ICE","INTERCONTINENTALEXCHANGE INC.","Financials","Equity",11838796.2,0.075635,,143605,"45865V100","US45865V1008","B0PBS81",82.44,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"MA","MASTERCARD INC CLASS A","Information Technology","Equity",20561052.22,0.131359,,143854,"57636Q104","US57636Q1040","B121557",142.93,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"EMN","EASTMAN CHEMICAL","Materials","Equity",4588976.07,0.029318,,144717,"277432100","US2774321002","2298386",31.71,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"WHR","WHIRLPOOL CORP","Consumer Discretionary","Equity",6042227.4,0.038602,,146124,"963320106","US9633201069","2960384",41.35,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"KBH","KB HOME","Consumer Discretionary","Equity",2026397.22,0.012946,,148781,"48666K109","US48666K1097","2485070",13.62,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"TEG","INTEGRYS ENERGY GROUP INC.","Utilities","Equity",6549507.29,0.041843,,152385,"45822P105","US45822P1057","2982098",42.98,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"MTZ","M&T BANK CORP","Financials","Equity",8779711.3,0.056091,,152930,"55261F104","US55261F1049","B0184C2",57.41,"United States","Xetra","USD",1,"-",2008-12-31
+"AVB","AVALONBAY COMMUNITIES REIT INC","Financials","Equity",9282976.3,0.059306,,153235,"053484101","US0534841012","2131179",60.58,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"SWK","STANLEY WORKS","Consumer Discretionary","Equity",5312473.1,0.03394,,155791,"854616109","US8546161097","2840549",34.1,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"LXK","LEXMARK INTERNATIONAL INC.","Information Technology","Equity",4214180.9,0.026923,,156661,"529771107","US5297711070","2511908",26.9,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"IFF","INTERNATIONAL FLAVORS & FRAGRANCES","Materials","Equity",4659234.12,0.029767,,156771,"459506101","US4595061015","2464165",29.72,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"BIG","BIG LOTS INC","Consumer Discretionary","Equity",2347206.12,0.014996,,161988,"089302103","US0893021032","2218447",14.49,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"JNY","JONES GROUP INC","Consumer Discretionary","Equity",971746.22,0.006208,,165827,"48020T101","US48020T1016","2477152",5.86,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"MEE","MASSEY ENERGY CO.","Energy","Equity",2299523.87,0.014691,,166753,"576206106","US5762061068","2343662",13.79,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"TMK","TORCHMARK CORP","Financials","Equity",7562837.7,0.048317,,169191,"891027104","US8910271043","2896713",44.7,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"TIE","TITANIUM METALS CORP.","Materials","Equity",1491374.42,0.009528,,169282,"888339207","US8883392073","2340931",8.81,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"SRCL","STERICYCLE INC","Industrials","Equity",8869432.32,0.056664,,170304,"858912108","US8589121081","2860826",52.08,"United States","NASDAQ","USD",1,"-",2008-12-31
+"ANF","ABERCROMBIE AND FITCH CLASS A","Consumer Discretionary","Equity",3976529.76,0.025405,,172368,"002896207","US0028962076","2004185",23.07,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"FHI","FEDERATED HERMES INC CLASS B","Financials","Equity",2952956.48,0.018866,,174113,"314211103","US3142111034","2246288",16.96,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"VFC","VF CORP","Consumer Discretionary","Equity",9600030.83,0.061332,,175279,"918204108","US9182041080","2928683",54.77,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"SNI","SCRIPPS NETWORKS INTERACTIVE INC C","Consumer Discretionary","Equity",3909422,0.024976,,177701,"811065101","US8110651010","B39QT24",22,"United States","NASDAQ","USD",1,"-",2008-12-31
+"CIEN","CIENA CORP","Information Technology","Equity",1201082.17,0.007673,,179266,"171779309","US1717793095","B1FLZ21",6.7,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"PDCO","PATTERSON COMPANIES INC","Health Care","Equity",3412087.5,0.021799,,181978,"703395103","US7033951036","2672689",18.75,"United States","NASDAQ","USD",1,"-",2008-12-31
+"BLL","BALL CORP","Materials","Equity",7823079,0.04998,,188100,"058498106","US0584981064","2073022",41.59,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"ATI","ALLEGHENY TECHNOLOGIES INC","Materials","Equity",4873549.35,0.031136,,190895,"01741R102","US01741R1023","2526117",25.53,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"NVLS","NOVELLUS SYSTEMS INC.","Information Technology","Equity",2395675.26,0.015305,,194139,"670008101","US6700081010","2650748",12.34,"United States","NASDAQ","USD",1,"-",2008-12-31
+"ACS","AFFILIATED COMPUTER SERVICES INC.","Information Technology","Equity",8928130.95,0.057039,,194301,"008190100","US0081901003","2034524",45.95,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"BFB","BROWN FORMAN CORP CLASS B","Consumer Staples","Equity",10020160.08,0.064016,,194604,"115637209","US1156372096","2146838",51.49,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"SHW","SHERWIN WILLIAMS","Consumer Discretionary","Equity",11662064.75,0.074506,,195181,"824348106","US8243481061","2804211",59.75,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"WAT","WATER CORP","Health Care","Equity",7161373.35,0.045752,,195399,"941848103","US9418481035","2937689",36.65,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"BCR","C R BARD INC","Health Care","Equity",16610089.54,0.106117,,197129,"067383109","US0673831097","2077905",84.26,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"BMS","BEMIS INC","Materials","Equity",4703818.88,0.030051,,198641,"081437105","US0814371052","2090173",23.68,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"AIV","APARTMENT INVESTMENT AND MANAGEMEN","Financials","Equity",2296093.8,0.014669,,198796,"03748R101","US03748R1014","2057059",11.55,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"LUMN","LUMEN TECHNOLOGIES INC","Telecommunication Services","Equity",5441730.96,0.034766,,199112,"156700106","US1567001060","2185046",27.33,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"PNW","PINNACLE WEST CORP","Utilities","Equity",6445085.22,0.041176,,200594,"723484101","US7234841010","2048804",32.13,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"COG","CABOT OIL & GAS CORP","Energy","Equity",5330546,0.034055,,205021,"127097103","US1270971039","2162340",26,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"DVA","DAVITA INC","Health Care","Equity",10226241.43,0.065333,,206299,"23918K108","US23918K1088","2898087",49.57,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"WPI","WATSON PHARMACEUTICALS","Health Care","Equity",5542873.98,0.035412,,208614,"942683103","US9426831031","2943545",26.57,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"CRM","SALESFORCE.COM INC","Information Technology","Equity",6690506.13,0.042744,,209013,"79466L302","US79466L3024","2310525",32.01,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"AVY","AVERY DENNISON CORP","Industrials","Equity",6915292.59,0.04418,,211283,"053611109","US0536111091","2066408",32.73,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"APOL","APOLLO EDUCATION GROUP INC CLASS A","Consumer Discretionary","Equity",16220377.38,0.103628,,211699,"037604105","US0376041051","2043694",76.62,"United States","NASDAQ","USD",1,"-",2008-12-31
+"AN","AUTONATION INC","Consumer Discretionary","Equity",2116562.76,0.013522,,214227,"05329W102","US05329W1027","2732635",9.88,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"LH","LABORATORY CORPORATION OF AMERICA","Health Care","Equity",13828376.13,0.088346,,214693,"50540R409","US50540R4092","2586122",64.41,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"VMC","VULCAN MATERIALS","Materials","Equity",15225565.18,0.097272,,218821,"929160109","US9291601097","2931205",69.58,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"AKS","AK STEEL HOLDING CORP","Materials","Equity",2066290.6,0.013201,,221705,"001547108","US0015471081","2067735",9.32,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"RDC","ROWAN COMPANIES PLC","Energy","Equity",3586054.2,0.02291,,225538,"779382100","US7793821007","2753197",15.9,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"ZION","ZIONS BANCORPORATION","Financials","Equity",5641099.05,0.036039,,230155,"989701107","US9897011071","2989828",24.51,"United States","NASDAQ","USD",1,"-",2008-12-31
+"EL","ESTEE LAUDER INC CLASS A","Consumer Staples","Equity",7133617.44,0.045575,,230414,"518439104","US5184391044","2320524",30.96,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"USX1","US STEEL CORP","Materials","Equity",8597738.4,0.054929,,231122,"912909108","US9129091081","B1C5WK3",37.2,"United States","Deutsche Boerse Xetra","USD",1,"-",2008-12-31
+"NYT","NEW YORK TIMES CLASS A","Consumer Discretionary","Equity",1696455.2,0.010838,,231440,"650111107","US6501111073","2632003",7.33,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"WEC","WEC ENERGY GROUP INC","Utilities","Equity",9741542.96,0.062236,,232052,"976657106","US9766571064","2973995",41.98,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"SUN","SUNOCO INC.","Energy","Equity",10089021.7,0.064456,,232145,"86764P109","US86764P1093","2859868",43.46,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"PKI","PERKINELMER INC","Health Care","Equity",3238776.58,0.020692,,232838,"714046109","US7140461093","2305844",13.91,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"AIZ","ASSURANT INC","Financials","Equity",7012800,0.044803,,233760,"04621X108","US04621X1081","2331430",30,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"PXD","PIONEER NATURAL RESOURCE","Energy","Equity",3785796.4,0.024186,,233980,"723787107","US7237871071","2690830",16.18,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"PLL","PALL CORP","Industrials","Equity",6673572.91,0.042636,,234737,"696429307","US6964293079","2668804",28.43,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"SJM","JM SMUCKER","Consumer Staples","Equity",10210499.52,0.065232,,235482,"832696405","US8326964058","2951452",43.36,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"LLL","L3 TECHNOLOGIES INC","Industrials","Equity",17508141.56,0.111855,,237302,"502424104","US5024241045","2247366",73.78,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"DDR","DEVELOPERS DIVERSIFIED REALTY CORP","Financials","Equity",1160678.72,0.007415,,237844,"251591103","US2515911038","2259060",4.88,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"CVG","CONVERGYS CORP","Information Technology","Equity",1537733.36,0.009824,,239896,"212485106","US2124851062","2284761",6.41,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"BXP","BOSTON PROPERTIES REIT INC","Financials","Equity",13195820,0.084305,,239924,"101121101","US1011211018","2019479",55,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"J","JACOBS ENGINEERING GROUP INC","Industrials","Equity",11737506.3,0.074988,,244023,"469814107","US4698141078","2469052",48.1,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"TIF","TIFFANY","Consumer Discretionary","Equity",5781292.17,0.036935,,244659,"886547108","US8865471085","2892090",23.63,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"GR","GOODRICH CORP","Industrials","Equity",9059682.48,0.05788,,244724,"382388106","US3823881061","2377809",37.02,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"MWW","MONSTER WORLDWIDE INC.","Industrials","Equity",2961457.59,0.01892,,244951,"611742107","US6117421072","2892045",12.09,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"HAS","HASBRO INC","Consumer Discretionary","Equity",7183170.84,0.045891,,246252,"418056107","US4180561072","2414580",29.17,"United States","NASDAQ","USD",1,"-",2008-12-31
+"VAR","VARIAN MEDICAL SYSTEMS INC","Health Care","Equity",8642020.32,0.055212,,246633,"92220P105","US92220P1057","2927516",35.04,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"ROH","ROHM & HAAS CO.","Materials","Equity",15340788.67,0.098008,,248273,"775371107","US7753711073","2746829",61.79,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"CTX","CENTEX CORP.","Consumer Discretionary","Equity",2642188.64,0.01688,,248326,"152312104","US1523121044","2183244",10.64,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"RSHCQ","RS LEGACY CORP","Consumer Discretionary","Equity",2971567.5,0.018985,,248875,"750438103","US7504381036","2871505",11.94,"United States","Non-Nms Quotation Service (Nnqs)","USD",1,"-",2008-12-31
+"PSA","PUBLIC STORAGE REIT","Financials","Equity",19803529.5,0.126519,,249101,"74460D109","US74460D1090","2852533",79.5,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"SIAL","SIGMA ALDRICH CORP","Materials","Equity",10525616.64,0.067245,,249186,"826552101","US8265521018","2807566",42.24,"United States","NASDAQ","USD",1,"-",2008-12-31
+"EFX","EQUIFAX INC","Industrials","Equity",6659516.76,0.042546,,251113,"294429105","US2944291051","2319146",26.52,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"QLG","QLOGIC","Information Technology","Equity",3418262.4,0.021838,,254335,"-","US7472771010","5643808",13.44,"United States","Boerse Muenchen","USD",1,"-",2008-12-31
+"FAST","FASTENAL","Industrials","Equity",8953696.85,0.057203,,256921,"311900104","US3119001044","2332262",34.85,"United States","NASDAQ","USD",1,"-",2008-12-31
+"MTW","MANITOWOC INC","Industrials","Equity",2238497.42,0.014301,,258487,"563571108","US5635711089","2562047",8.66,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"MKC","MCCORMICK & CO NON-VOTING INC","Consumer Staples","Equity",8238422.52,0.052633,,258582,"579780206","US5797802064","2550161",31.86,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"CTAS","CINTAS CORP","Industrials","Equity",6040264.6,0.03859,,260020,"172908105","US1729081059","2197137",23.23,"United States","NASDAQ","USD",1,"-",2008-12-31
+"EQT","EQT CORP","Utilities","Equity",8743801,0.055862,,260620,"26884L109","US26884L1098","2319414",33.55,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"PTV","PACTIV CORP","Materials","Equity",6507811.84,0.041577,,261568,"695257105","US6952571056","2511328",24.88,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"HRS","L3HARRIS TECHNOLOGIES CORP","Information Technology","Equity",10184767.4,0.065068,,267668,"413875105","US4138751056","2412001",38.05,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"PBG","PEPSI BOTTLING","Consumer Staples","Equity",6047334.01,0.038635,,268651,"713409100","US7134091005","2404569",22.51,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"NDAQ","NASDAQ INC","Financials","Equity",6677235.04,0.042659,,270224,"631103108","US6311031081","2965107",24.71,"United States","NASDAQ","USD",1,"-",2008-12-31
+"VNO","VORNADO REALTY TRUST REIT","Financials","Equity",16475187.9,0.105256,,272994,"929042109","US9290421091","2933632",60.35,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"TSO","TESORO CORP","Energy","Equity",3596647.98,0.022978,,273094,"881609101","US8816091016","2884569",13.17,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"CLX","CLOROX","Consumer Staples","Equity",15313613.88,0.097835,,275623,"189054109","US1890541097","2204026",55.56,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"DRI","DARDEN RESTAURANTS INC","Consumer Discretionary","Equity",7771339.5,0.049649,,275775,"237194105","US2371941053","2289874",28.18,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"PCP","PRECISION CASTPARTS CORP","Industrials","Equity",16478636.6,0.105278,,277045,"740189105","US7401891053","2699514",59.48,"United States","-","USD",1,"-",2008-12-31
+"FDO","FAMILY DOLLAR STORES INC","Consumer Discretionary","Equity",7231974.42,0.046203,,277406,"307000109","US3070001090","2331225",26.07,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"MOLX","MOLEX INC.","Information Technology","Equity",4056939.18,0.025919,,279982,"608554101","US6085541018","2599142",14.49,"United States","NASDAQ","USD",1,"-",2008-12-31
+"WFM","WHOLE FOODS MARKET INC","Consumer Staples","Equity",2654263.68,0.016957,,281172,"966837106","US9668371068","2963899",9.44,"United States","NASDAQ","USD",1,"-",2008-12-31
+"ROK","ROCKWELL AUTOMATION INC","Industrials","Equity",9069853.52,0.057945,,281323,"773903109","US7739031091","2754060",32.24,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"LEN","LENNAR A CORP","Consumer Discretionary","Equity",2441393.97,0.015597,,281591,"526057104","US5260571048","2511920",8.67,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"EQ","EMBARQ CORP.","Telecommunication Services","Equity",10135649.63,0.064754,,281859,"29078E105","US29078E1055","B142VX8",35.96,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"ESV","ENSCO INTL PLC","Energy","Equity",8002090.57,0.051123,,281863,"26874Q100","US26874Q1004","2105594",28.39,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"LM","LEGG MASON INC","Financials","Equity",6200267.08,0.039612,,282988,"524901105","US5249011058","2510615",21.91,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"UST.1","UST INC.","Consumer Staples","Equity",20463353.48,0.130735,,294946,"902911106","US9029111062","2922544",69.38,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"TAP","MOLSON COORS BREWING  CLASS B","Consumer Staples","Equity",14474840.96,0.092476,,295888,"60871R209","US60871R2094","B067BM3",48.92,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"CVH","COVENTRY HEALTH CARE INC","Health Care","Equity",4415640,0.02821,,296750,"222862104","US2228621049","2232696",14.88,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"XRAY","DENTSPLY SIRONA INC","Health Care","Equity",8384201.84,0.053564,,296891,"249030107","US2490301072","2364339",28.24,"United States","NASDAQ","USD",1,"-",2008-12-31
+"FO","FORTUNE BRANDS INC","Consumer Discretionary","Equity",12296445.12,0.078559,,297879,"349631101","US3496311016","2024774",41.28,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"CMA","COMERICA INC","Financials","Equity",5946226.3,0.037989,,299558,"200340107","US2003401070","2212870",19.85,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"BEN","FRANKLIN RESOURCES INC","Financials","Equity",19176605.04,0.122514,,300668,"354613101","US3546131018","2350684",63.78,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"CSC","COMPUTER SCIENCES CORP","Information Technology","Equity",10577772.52,0.067579,,301018,"205363104","US2053631048","2215200",35.14,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"MFE","MCAFEE","Information Technology","Equity",10489713.38,0.067016,,303434,"579064106","US5790641063","2553201",34.57,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"DF","DEAN FOODS CO.","Consumer Staples","Equity",5518299.48,0.035255,,307084,"242370104","US2423701042","2858649",17.97,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"RHI","ROBERT HALF","Industrials","Equity",6415016.76,0.040984,,308118,"770323103","US7703231032","2110703",20.82,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"RRC","RANGE RESOURCES CORP","Energy","Equity",10635245.06,0.067946,,309254,"75281A109","US75281A1097","2523334",34.39,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"ABC","AMERISOURCEBERGEN CORP","Health Care","Equity",11073749.42,0.070747,,310537,"03073E105","US03073E1055","2795393",35.66,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"LEG","LEGGETT & PLATT INC","Consumer Discretionary","Equity",4718910.21,0.030148,,310659,"524660107","US5246601075","2510682",15.19,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"COL","ROCKWELL COLLINS INC","Industrials","Equity",12300567.57,0.078585,,314673,"774341101","US7743411016","2767228",39.09,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"DGX","QUEST DIAGNOSTICS INC","Health Care","Equity",16343863.5,0.104417,,314850,"74834L100","US74834L1008","2702791",51.91,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"SEE","SEALED AIR CORP","Materials","Equity",4710761.28,0.030096,,315312,"81211K100","US81211K1007","2232793",14.94,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"JNS","JANUS CAPITAL GROUP INC","Financials","Equity",2536516.4,0.016205,,315880,"47102X105","US47102X1054","2605555",8.03,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"HSP","HOSPIRA INC","Health Care","Equity",8496415.08,0.054281,,316794,"441060100","US4410601003","B00PWV9",26.82,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"GPC","GENUINE PARTS","Consumer Discretionary","Equity",11999499.84,0.076662,,316944,"372460105","US3724601055","2367480",37.86,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"FISV","FISERV INC","Information Technology","Equity",11580680.81,0.073986,,318413,"337738108","US3377381088","2342034",36.37,"United States","NASDAQ","USD",1,"-",2008-12-31
+"JWN","NORDSTROM INC","Consumer Discretionary","Equity",4243267.93,0.027109,,318803,"655664100","US6556641008","2641827",13.31,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"PH","PARKER-HANNIFIN CORP","Industrials","Equity",13627986.78,0.087066,,320357,"701094104","US7010941042","2671501",42.54,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"CINF","CINCINNATI FINANCIAL CORP","Financials","Equity",9391005.37,0.059997,,323048,"172062101","US1720621010","2196888",29.07,"United States","NASDAQ","USD",1,"-",2008-12-31
+"DTE","DTE ENERGY","Utilities","Equity",11551836.51,0.073802,,323853,"233331107","US2333311072","2280220",35.67,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"GME","GAMESTOP CORP CLASS A","Consumer Discretionary","Equity",7045283.22,0.04501,,325267,"36467W109","US36467W1099","B0LLFT5",21.66,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"PPG","PPG INDUSTRIES INC","Materials","Equity",13847794.24,0.08847,,326368,"693506107","US6935061076","2698470",42.43,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"ETN","EATON CORP.","Industrials","Equity",16294440.9,0.104101,,327790,"278058102","US2780581029","2300883",49.71,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"HSY","HERSHEY FOODS","Consumer Staples","Equity",11426124.96,0.072998,,328904,"427866108","US4278661081","2422806",34.74,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"PCL","PLUM CREEK TIMBER COMPANY REIT INC","Financials","Equity",11520548.28,0.073602,,331622,"729251108","US7292511083","2692397",34.74,"United States","-","USD",1,"-",2008-12-31
+"TER","TERADYNE INC","Information Technology","Equity",1405226.24,0.008978,,332992,"880770102","US8807701029","2884183",4.22,"United States","NASDAQ","USD",1,"-",2008-12-31
+"ECL","ECOLAB INC","Materials","Equity",11715354.4,0.074846,,333296,"278865100","US2788651006","2304227",35.15,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"LO","LORILLARD INC","Consumer Staples","Equity",18826985.8,0.120281,,334108,"544147101","US5441471019","B39GHT7",56.35,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"HUM","HUMANA INC","Health Care","Equity",12498604.64,0.07985,,335263,"444859102","US4448591028","2445063",37.28,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"AYE","ALLEGHENY ENERGY","Utilities","Equity",11362806.52,0.072594,,335582,"017361106","US0173611064","2024020",33.86,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"KLAC","KLA CORP","Information Technology","Equity",7318759.83,0.046758,,335877,"482480100","US4824801009","2480138",21.79,"United States","NASDAQ","USD",1,"-",2008-12-31
+"RAI","REYNOLDS AMERICAN INC","Consumer Staples","Equity",13543716.59,0.086527,,335989,"761713106","US7617131062","2429090",40.31,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"CHRW","CH ROBINSON WORLDWIDE INC","Industrials","Equity",18506699.06,0.118234,,336302,"12541W209","US12541W2098","2116228",55.03,"United States","NASDAQ","USD",1,"-",2008-12-31
+"AKAM","AKAMAI TECHNOLOGIES INC","Information Technology","Equity",5097794.34,0.032568,,337826,"00971T101","US00971T1016","2507457",15.09,"United States","NASDAQ","USD",1,"-",2008-12-31
+"MWV","MEADWESTVACO CORP","Materials","Equity",3816808.31,0.024385,,341091,"583334107","US5833341077","2840044",11.19,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"LIFE","LIFE TECHNOLOGIES CORP","Health Care","Equity",7979665.68,0.05098,,342328,"53217V109","US53217V1098","2397186",23.31,"United States","NASDAQ","USD",1,"-",2008-12-31
+"NBL","NOBLE ENERGY INC","Energy","Equity",16898948.7,0.107963,,343335,"655044105","US6550441058","2640761",49.22,"United States","NASDAQ","USD",1,"-",2008-12-31
+"CBE","COOPER INDUSTRIES INC.","Industrials","Equity",10053073.9,0.064226,,343930,"-","BMG241821005","2949435",29.23,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"STR","QUESTAR CORP","Utilities","Equity",11243267.84,0.07183,,343936,"748356102","US7483561020","2717483",32.69,"United States","-","USD",1,"-",2008-12-31
+"APH","AMPHENOL CORP CLASS A","Information Technology","Equity",8378276.28,0.053527,,349386,"032095101","US0320951017","2145084",23.98,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"TDC","TERADATA CORP","Information Technology","Equity",5188883.53,0.03315,,349891,"88076W103","US88076W1036","B247H10",14.83,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"WYND","TRAVEL LEISURE INC","Consumer Discretionary","Equity",2295454.05,0.014665,,350451,"98310W108","US98310W1080","B198391",6.55,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"LUK","JEFFERIES FINANCIAL GROUP CORP","Financials","Equity",6988509,0.044648,,352955,"527288104","US5272881047","2513012",19.8,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"CEG","CONSTELLATION ENERGY GROUP INC.","Utilities","Equity",8903788.66,0.056884,,354874,"210371100","US2103711006","2073408",25.09,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"CNX","CONSOL ENERGY INC","Energy","Equity",10292686.88,0.065757,,360136,"20854P109","US20854P1093","2413758",28.58,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"FLR","FLUOR CORP","Industrials","Equity",16186493.54,0.103411,,360742,"343412102","US3434121022","2696838",44.87,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"ITT","ITT CORP","Industrials","Equity",16592410.17,0.106005,,360783,"450911102","US4509111021","2465760",45.99,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"CTXS","CITRIX SYSTEMS INC","Information Technology","Equity",8509288.54,0.054364,,361022,"177376100","US1773761002","2182553",23.57,"United States","NASDAQ","USD",1,"-",2008-12-31
+"MCHP","MICROCHIP TECHNOLOGY INC","Information Technology","Equity",7061383.98,0.045113,,361566,"595017104","US5950171042","2592174",19.53,"United States","NASDAQ","USD",1,"-",2008-12-31
+"RX","IMS HEALTH INC.","Health Care","Equity",5502094.6,0.035151,,362935,"449934108","US4499341083","2256511",15.16,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"HOT","STARWOOD HOTELS & RESORTS WORLDWID","Consumer Discretionary","Equity",6514418.6,0.041619,,363934,"85590A401","US85590A4013","B12GHV2",17.9,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"DOV","DOVER CORP","Industrials","Equity",12168548.8,0.077742,,369640,"260003108","US2600031080","2278407",32.92,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"BMC","BMC SOFTWARE INC.","Information Technology","Equity",10031913.45,0.064091,,372795,"055921100","US0559211000","2068921",26.91,"United States","NASDAQ","USD",1,"-",2008-12-31
+"MBI","MBIA INC","Financials","Equity",1524845.85,0.009742,,374655,"55262C100","US55262C1009","2547044",4.07,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"ETR","ENTERGY CORP","Utilities","Equity",31284811.68,0.19987,,376336,"29364G103","US29364G1031","2317087",83.13,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"FIS","FIDELITY NATIONAL INFORMATION SERV","Information Technology","Equity",6151491.76,0.0393,,378088,"31620M106","US31620M1062","2769796",16.27,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"MUR","MURPHY OIL CORP","Energy","Equity",16789623.85,0.107264,,378571,"626717102","US6267171022","2611206",44.35,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"MCO","MOODYS CORP","Financials","Equity",7758416.47,0.049566,,386183,"615369105","US6153691059","2252058",20.09,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"VRSN","VERISIGN INC","Information Technology","Equity",7381479.6,0.047158,,386870,"92343E102","US92343E1029","2142922",19.08,"United States","NASDAQ","USD",1,"-",2008-12-31
+"STZ","CONSTELLATION BRANDS INC CLASS A","Consumer Staples","Equity",6105592.05,0.039007,,387165,"21036P108","US21036P1084","2170473",15.77,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"NSM.2","NATIONAL SEMICONDUCTOR CORP","Information Technology","Equity",3921942.76,0.025056,,389468,"637640103","US6376401039","2626921",10.07,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"TSS","TOTAL SYSTEM SERVICES INC","Information Technology","Equity",5476744.03,0.034989,,391196,"891906109","US8919061098","2897697",14,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"CMI","CUMMINS INC","Industrials","Equity",10699190.37,0.068354,,400269,"231021106","US2310211063","2240202",26.73,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"FHN","FIRST HORIZON CORP","Financials","Equity",4300235.33,0.027473,,406834,"320517105","US3205171057","2341484",10.57,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"RRD","RR DONNELLEY AND SONS","Industrials","Equity",5535642.56,0.035366,,407632,"257867101","US2578671016","2276605",13.58,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"CPB","CAMPBELL SOUP","Consumer Staples","Equity",12276250.72,0.07843,,409072,"134429109","US1344291091","2162845",30.01,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"PBI","PITNEY BOWES INC","Industrials","Equity",10438009.4,0.066686,,409655,"724479100","US7244791007","2690506",25.48,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"ACAS","AMERICAN CAPITAL LTD.","Financials","Equity",1329919.56,0.008497,,410469,"02503Y103","US02503Y1038","2101990",3.24,"United States","NASDAQ","USD",1,"-",2008-12-31
+"JBL","JABIL INC","Information Technology","Equity",2804510.25,0.017917,,415483,"466313103","US4663131039","2471789",6.75,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"APD","AIR PRODUCTS AND CHEMICALS INC","Materials","Equity",20941325.79,0.133789,,416577,"009158106","US0091581068","2011602",50.27,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"EXPE","EXPEDIA INC.","Consumer Discretionary","Equity",3448563.6,0.022032,,418515,"30212P105","US30212P1057","B0F0DY9",8.24,"United States","NASDAQ","USD",1,"-",2008-12-31
+"WY","WEYERHAEUSER REIT","Materials","Equity",12853598.14,0.082118,,419915,"962166104","US9621661043","2958936",30.61,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"AEE","AMEREN CORP","Utilities","Equity",13966672.24,0.089229,,419924,"023608102","US0236081024","2050832",33.26,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"SVU","SUPERVALU INC","Consumer Staples","Equity",6133401.6,0.039185,,420096,"868536103","US8685361037","2863610",14.6,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"EXPD","EXPEDITORS INTERNATIONAL OF WASHIN","Industrials","Equity",14022672.87,0.089587,,421481,"302130109","US3021301094","2325507",33.27,"United States","NASDAQ","USD",1,"-",2008-12-31
+"TE","TECO ENERGY INC","Utilities","Equity",5242216.85,0.033491,,424471,"872375100","US8723751009","2880255",12.35,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"UNS1","VIAVI SOLUTIONS INC","Information Technology","Equity",1551319.51,0.009911,,425019,"-","US46612J5074","B1G2LW5",3.65,"United States","Boerse Stuttgart","USD",1,"-",2008-12-31
+"PHM","PULTEGROUP INC","Consumer Discretionary","Equity",4660300.61,0.029773,,426377,"745867101","US7458671010","2708841",10.93,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"AMP","AMERIPRISE FINANCE INC","Financials","Equity",10040128,0.064144,,429800,"03076C106","US03076C1062","B0J7D57",23.36,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"POM","PEPCO HOLDINGS INC","Utilities","Equity",7638327.36,0.048799,,430086,"713291102","US7132911022","2971698",17.76,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"CBG","CB RICHARD ELLIS GROUP INC. (CL A)","Financials","Equity",1881943.2,0.012023,,435635,"12497T101","US12497T1016","B018V21",4.32,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"SII","SMITH INTERNATIONAL","Energy","Equity",9975622.23,0.063732,,435807,"832110100","US8321101003","2816409",22.89,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"CAM","CAMERON INTERNATIONAL CORP","Energy","Equity",8953436.5,0.057201,,436753,"13342B105","US13342B1052","2222233",20.5,"United States","-","USD",1,"-",2008-12-31
+"LLTC","LINEAR TECHNOLOGY CORP","Information Technology","Equity",9729504.12,0.062159,,439851,"535678106","US5356781063","2516839",22.12,"United States","NASDAQ","USD",1,"-",2008-12-31
+"CPPRQ","OLD COPPER INC","Consumer Discretionary","Equity",8710197.4,0.055647,,442142,"708160106","US7081601061","2680303",19.7,"United States","Non-Nms Quotation Service (Nnqs)","USD",1,"-",2008-12-31
+"NTRS","NORTHERN TRUST CORP","Financials","Equity",23112567.06,0.14766,,443279,"665859104","US6658591044","2648668",52.14,"United States","NASDAQ","USD",1,"-",2008-12-31
+"WFR","MEMC ELECTRONIC MATERIALS INC.","Information Technology","Equity",6370379.4,0.040699,,446105,"552715104","US5527151048","2580113",14.28,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"ZBH","ZIMMER BIOMET HOLDINGS INC","Health Care","Equity",18041184.06,0.11526,,446343,"98956P102","US98956P1021","2783815",40.42,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"SPG","SIMON PROPERTY GROUP REIT INC","Financials","Equity",23841981.24,0.15232,,448748,"828806109","US8288061091","2812452",53.13,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"CMS","CMS ENERGY CORP","Utilities","Equity",4542918.39,0.029023,,449349,"125896100","US1258961002","2219224",10.11,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"SNDK","SANDISK CORP","Information Technology","Equity",4323984,0.027625,,450415,"80004C101","US80004C1018","2765802",9.6,"United States","NASDAQ","USD",1,"-",2008-12-31
+"ADSK","AUTODESK INC","Information Technology","Equity",8861187.15,0.056612,,450951,"052769106","US0527691069","2065159",19.65,"United States","NASDAQ","USD",1,"-",2008-12-31
+"KIM","KIMCO REALTY REIT CORP","Financials","Equity",8324986.2,0.053186,,455415,"49446R109","US49446R1095","2491594",18.28,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"TGNA","GANNETT CO INC","Consumer Discretionary","Equity",3646712,0.023298,,455839,"364730101","US3647301015","2360304",8,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"HOG","HARLEY DAVIDSON INC","Consumer Discretionary","Equity",7854445.71,0.05018,,462843,"412822108","US4128221086","2411053",16.97,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"GOOGL","GOOGLE INC CLASS A","Information Technology","Equity",146258655.9,0.934408,,475406,"-","US38259P5089","B84V7F8",307.65,"United States","Spot Regulated Market - Bvb","USD",1,"-",2008-12-31
+"GT","GOODYEAR TIRE & RUBBER","Consumer Discretionary","Equity",2846937.78,0.018188,,476874,"382550101","US3825501014","2378200",5.97,"United States","NASDAQ","USD",1,"-",2008-12-31
+"TXT","TEXTRON INC","Industrials","Equity",6652898.07,0.042504,,479661,"883203101","US8832031012","2885937",13.87,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"SYK","STRYKER CORP","Health Care","Equity",19236963.7,0.1229,,481526,"863667101","US8636671013","2853688",39.95,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"BDX","BECTON DICKINSON","Health Care","Equity",33042081.38,0.211097,,483142,"075887109","US0758871091","2087807",68.39,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"SRE","SEMPRA ENERGY","Utilities","Equity",20645964.78,0.131902,,484306,"816851109","US8168511090","2138158",42.63,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"CPWR","COMPUWARE CORP.","Information Technology","Equity",3308694.75,0.021138,,490177,"205638109","US2056381096","2220884",6.75,"United States","NASDAQ","USD",1,"-",2008-12-31
+"KG","KING PHARMACEUTICALS","Health Care","Equity",5208154.2,0.033274,,490410,"495582108","US4955821081","2259468",10.62,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"ESRX","EXPRESS SCRIPTS INC.","Health Care","Equity",27039878.74,0.172751,,491813,"302182100","US3021821000","2326469",54.98,"United States","NASDAQ","USD",1,"-",2008-12-31
+"EOG","EOG RESOURCES INC","Energy","Equity",33024412.38,0.210984,,496011,"26875P101","US26875P1012","2318024",66.58,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"K","KELLOGG","Consumer Staples","Equity",21952932.45,0.140251,,500637,"487836108","US4878361082","2486813",43.85,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"PEAK","HEALTHPEAK PROPERTIES INC","Financials","Equity",13930098.48,0.088996,,501624,"40414L109","US40414L1098","2417578",27.77,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"DPS","KEURIG DR PEPPER INC","Consumer Staples","Equity",8186766.25,0.052303,,503801,"26138E109","US26138E1091","B2QW0Z8",16.25,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"DHR","DANAHER CORP","Industrials","Equity",28768522.68,0.183794,,508188,"235851102","US2358511028","2250870",56.61,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"LNC","LINCOLN NATIONAL CORP","Financials","Equity",9579725.53,0.061202,,508478,"534187109","US5341871094","2516378",18.84,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"TROW","T ROWE PRICE GROUP INC","Financials","Equity",18199148.8,0.11627,,513520,"74144T108","US74144T1088","2702337",35.44,"United States","NASDAQ","USD",1,"-",2008-12-31
+"PFG","PRINCIPAL FINANCIAL GROUP INC","Financials","Equity",11633345.38,0.074322,,515434,"74251V102","US74251V1026","2803014",22.57,"United States","NASDAQ","USD",1,"-",2008-12-31
+"BBBY","BED BATH AND BEYOND INC","Consumer Discretionary","Equity",13119999.18,0.08382,,516129,"075896100","US0758961009","2085878",25.42,"United States","NASDAQ","USD",1,"-",2008-12-31
+"MI","MARSHALL & ILSLEY","Financials","Equity",7044146.12,0.045003,,516433,"571837103","US5718371033","B28V183",13.64,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"PGN","PROGRESS ENERGY INC.","Utilities","Equity",20836369.5,0.133118,,522870,"743263105","US7432631056","2604206",39.85,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"NE","NOBLE CORP","Energy","Equity",11570499.01,0.073921,,523789,"-","KYG654221004","2891718",22.09,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"SCN","PROLOGIS","Financials","Equity",7294652.97,0.046604,,525173,"743410102","US7434101025","2790611",13.89,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"NYX","NYSE EURONEXT","Financials","Equity",14419978.18,0.092125,,526661,"629491101","US6294911010","B1VJYW2",27.38,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"BTU","PEABODY ENERGY CORP","Energy","Equity",12059229,0.077043,,530076,"704549104","US7045491047","2753454",22.75,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"AON","AON PLC","Financials","Equity",24496859.28,0.156504,,536271,"037389103","US0373891037","2212717",45.68,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"EKDKQ","EASTMAN KODAK CO.","Consumer Discretionary","Equity",3532565.12,0.022569,,536864,"277461109","US2774611097","2300601",6.58,"United States","Non-Nms Quotation Service (Nnqs)","USD",1,"-",2008-12-31
+"GENZ","GENZYME CORP.","Health Care","Equity",35681706.66,0.227961,,537618,"372917104","US3729171047","2367598",66.37,"United States","NASDAQ","USD",1,"-",2008-12-31
+"LTD","LIMITED BRANDS INC.","Consumer Discretionary","Equity",5403026,0.034518,,538150,"532716107","US5327161072","2516185",10.04,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"EQR","EQUITY RESIDENTIAL REIT","Financials","Equity",16121109.48,0.102993,,540614,"29476L107","US29476L1070","2319157",29.82,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"ODP","ODP INC","Consumer Discretionary","Equity",1615383.5,0.01032,,542075,"676220106","US6762201068","2655981",2.98,"United States","NASDAQ","USD",1,"-",2008-12-31
+"ED","CONSOLIDATED EDISON INC","Utilities","Equity",21170756.88,0.135254,,543816,"209115104","US2091151041","2216850",38.93,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"NI","NISOURCE INC","Utilities","Equity",5969095.13,0.038135,,544129,"65473P105","US65473P1057","2645409",10.97,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"XLNX","XILINX INC","Information Technology","Equity",9701617.86,0.061981,,544423,"983919101","US9839191015","2985677",17.82,"United States","NASDAQ","USD",1,"-",2008-12-31
+"DHI","D R HORTON INC","Consumer Discretionary","Equity",3859590.77,0.024658,,545911,"23331A109","US23331A1097","2250687",7.07,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"CI","CIGNA CORP","Health Care","Equity",9218365.4,0.058894,,547084,"125509109","US1255091092","2196479",16.85,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"MCK","MCKESSON CORP","Health Care","Equity",21236472.33,0.135674,,548321,"58155Q103","US58155Q1031","2378534",38.73,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"NWL","NEWELL BRANDS INC","Consumer Discretionary","Equity",5399088.12,0.034493,,552054,"651229106","US6512291062","2635701",9.78,"United States","NASDAQ","USD",1,"-",2008-12-31
+"BNI","BURLINGTON NORTHERN","Industrials","Equity",42243075.89,0.26988,,557959,"12189T104","US12189T1043","2154927",75.71,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"HES","HESS CORP","Energy","Equity",30242553.84,0.193212,,563806,"42809H107","US42809H1077","2023748",53.64,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"NBR","NABORS INDUSTRIES LTD","Energy","Equity",6766317.81,0.043228,,565273,"-","BMG6359F1032","2963372",11.97,"Bermuda","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"ADI","ANALOG DEVICES INC","Information Technology","Equity",11006969.1,0.070321,,578705,"032654105","US0326541051","2032067",19.02,"United States","NASDAQ","USD",1,"-",2008-12-31
+"BIIB","BIOGEN INC","Health Care","Equity",27615826.37,0.17643,,579799,"09062X103","US09062X1037","2455965",47.63,"United States","NASDAQ","USD",1,"-",2008-12-31
+"CTSH","COGNIZANT TECHNOLOGY SOLUTIONS COR","Information Technology","Equity",10474167.9,0.066917,,579965,"192446102","US1924461023","2257019",18.06,"United States","NASDAQ","USD",1,"-",2008-12-31
+"BJS","BJ SERVICES CO","Energy","Equity",6771132.39,0.043259,,580217,"055482103","US0554821035","2069065",11.67,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"MAR","MARRIOTT INTERNATIONAL INC CLASS A","Consumer Discretionary","Equity",11336451.95,0.072426,,582851,"571903202","US5719032022","2210614",19.45,"United States","NASDAQ","USD",1,"-",2008-12-31
+"IGT","INTERNATIONAL GAME TECHNOLOGY","Consumer Discretionary","Equity",6967540,0.044514,,586000,"459902102","US4599021023","2464972",11.89,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"ALTR","ALTERA CORP","Information Technology","Equity",9877180.74,0.063103,,591094,"021441100","US0214411003","2021690",16.71,"United States","NASDAQ","USD",1,"-",2008-12-31
+"HIG","HARTFORD FINANCIAL SERVICES GROUP","Financials","Equity",9823642.66,0.062761,,598273,"416515104","US4165151048","2476193",16.42,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"FRX","FOREST LABORATORIES INC","Health Care","Equity",15257701.62,0.097477,,599046,"345838106","US3458381064","2346508",25.47,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"TSN","TYSON FOODS INC CLASS A","Consumer Staples","Equity",5257576.8,0.033589,,600180,"902494103","US9024941034","2909730",8.76,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"MYL","MYLAN INC","Health Care","Equity",5965193.06,0.03811,,603154,"628530107","US6285301072","2613804",9.89,"United States","NASDAQ","USD",1,"-",2008-12-31
+"KSS","KOHLS CORP","Consumer Discretionary","Equity",21922901,0.14006,,605605,"500255104","US5002551043","2496113",36.2,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"FE","FIRSTENERGY CORP","Utilities","Equity",29431367.14,0.188029,,605833,"337932107","US3379321074","2100920",48.58,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"BHI","BAKER HUGHES INC","Energy","Equity",19599420.15,0.125215,,611145,"057224107","US0572241075","2072085",32.07,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"AG4","ALLERGAN","Health Care","Equity",24643261.44,0.157439,,611192,"-","US0184901025","5793208",40.32,"United States","Boerse Berlin","USD",1,"-",2008-12-31
+"PX","PRAXAIR INC","Materials","Equity",36387145.76,0.232468,,612991,"74005P104","US74005P1049","2699291",59.36,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"OMC","OMNICOM GROUP INC","Consumer Discretionary","Equity",16631633.64,0.106255,,617817,"681919106","US6819191064","2279303",26.92,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"FDX","FEDEX CORP","Industrials","Equity",39682805.1,0.253523,,618594,"31428X106","US31428X1063","2142784",64.15,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"FTR","FRONTIER COMMUNICATIONS CORP","Telecommunication Services","Equity",5409089.86,0.034557,,618889,"35906A108","US35906A1088","2197933",8.74,"United States","NASDAQ","USD",1,"-",2008-12-31
+"NUE","NUCOR CORP","Materials","Equity",28829169.6,0.184182,,624008,"670346105","US6703461052","2651086",46.2,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"HNZ","H.J. HEINZ CO.","Consumer Staples","Equity",23495412.8,0.150106,,624878,"423074103","US4230741039","2419240",37.6,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"MHFI","S&P GLOBAL INC","Consumer Discretionary","Equity",14497437.21,0.09262,,625159,"580645109","US5806451093","2551443",23.19,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"CCE","COCA-COLA ENTERPRISES INC.","Consumer Staples","Equity",7565811.36,0.048336,,628912,"191219104","US1912191046","2206969",12.03,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"IR","INGERSOLL-RAND PLC","Industrials","Equity",10987234.5,0.070195,,633270,"-","IE00B6330302","2831167",17.35,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"INTU","INTUIT INC","Information Technology","Equity",15133033.11,0.096681,,636109,"461202103","US4612021034","2459020",23.79,"United States","NASDAQ","USD",1,"-",2008-12-31
+"RSG","REPUBLIC SERVICES INC","Industrials","Equity",15816342.34,0.101046,,638013,"760759100","US7607591002","2262530",24.79,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"PAYX","PAYCHEX INC","Information Technology","Equity",16770214.08,0.10714,,638136,"704326107","US7043261079","2674458",26.28,"United States","NASDAQ","USD",1,"-",2008-12-31
+"EA","ELECTRONIC ARTS INC","Information Technology","Equity",10249062.76,0.065479,,638969,"285512109","US2855121099","2310194",16.04,"United States","NASDAQ","USD",1,"-",2008-12-31
+"AMZN","AMAZON COM INC","Consumer Discretionary","Equity",32779560.56,0.20942,,639227,"023135106","US0231351067","2000019",51.28,"United States","NASDAQ","USD",1,"-",2008-12-31
+"EIX","EDISON INTERNATIONAL","Utilities","Equity",20798021.2,0.132873,,647510,"281020107","US2810201077","2829515",32.12,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"NTH","NORTHROP GRUMMAN CORP","Industrials","Equity",29270279.92,0.187,,649873,"666807102","US6668071029","4080406",45.04,"United States","Boerse Berlin","USD",1,"-",2008-12-31
+"COH","TAPESTRY INC","Consumer Discretionary","Equity",13498734.55,0.08624,,649915,"189754104","US1897541041","2646015",20.77,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"XL","XL GROUP PLC","Financials","Equity",2427977,0.015512,,656210,"-","IE00B5LRLL25","2283401",3.7,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"NTAP","NETAPP INC","Information Technology","Equity",9175691.58,0.058621,,656814,"64110D104","US64110D1046","2630643",13.97,"United States","NASDAQ","USD",1,"-",2008-12-31
+"UUM","UNUM","Financials","Equity",12244324.2,0.078226,,658297,"91529Y106","US91529Y1064","5925777",18.6,"United States","Deutsche Boerse Xetra","USD",1,"-",2008-12-31
+"LOM","LOCKHEED MARTIN CORP","Industrials","Equity",55639603.68,0.355467,,661746,"539830109","US5398301094","5335161",84.08,"United States","Deutsche Boerse Xetra","USD",1,"-",2008-12-31
+"GIS","GENERAL MILLS INC","Consumer Staples","Equity",40347720,0.257771,,664160,"370334104","US3703341046","2367026",60.75,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"APA","APA CORP","Energy","Equity",49570648.3,0.316694,,665110,"037411105","US0374111054","2043962",74.53,"United States","NASDAQ","USD",1,"-",2008-12-31
+"BBY","BEST BUY INC","Consumer Discretionary","Equity",18870524.1,0.120559,,671310,"086516101","US0865161014","2094670",28.11,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"HRB","H&R BLOCK INC","Consumer Discretionary","Equity",15298602.88,0.097739,,673354,"093671105","US0936711052","2105505",22.72,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"SWN","SOUTHWESTERN ENERGY","Energy","Equity",19766549.67,0.126283,,682311,"845467109","US8454671095","2828619",28.97,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"CNP","CENTERPOINT ENERGY INC","Utilities","Equity",8612809.26,0.055025,,682473,"15189T107","US15189T1079","2440637",12.62,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"STJ","ST JUDE MEDICAL","Health Care","Equity",22546485.76,0.144044,,684056,"790849103","US7908491035","2767381",32.96,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"NOVL","NOVELL","Information Technology","Equity",2667120.15,0.01704,,685635,"670006105","US6700061053","2650793",3.89,"United States","NASDAQ","USD",1,"-",2008-12-31
+"PBCT","PEOPLES UNITED FINANCIAL INC","Financials","Equity",12323989.02,0.078735,,691194,"712704105","US7127041058","B1W41J2",17.83,"United States","NASDAQ","USD",1,"-",2008-12-31
+"PNC","PNC FINANCIAL SERVICES GROUP INC","Financials","Equity",33903198,0.216599,,691902,"693475105","US6934751057","2692665",49,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"A","AGILENT TECHNOLOGIES INC","Information Technology","Equity",10856894.97,0.069362,,694619,"00846U101","US00846U1016","2520153",15.63,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"STI","SUNTRUST BANKS INC","Financials","Equity",20787888.8,0.132808,,703720,"867914103","US8679141031","2860990",29.54,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"CB","CHUBB CORP","Financials","Equity",36060111,0.230378,,707061,"171232101","US1712321017","2195722",51,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"MAT","MATTEL INC","Consumer Discretionary","Equity",11398896,0.072825,,712431,"577081102","US5770811025","2572303",16,"United States","NASDAQ","USD",1,"-",2008-12-31
+"CITGQ","CIT GROUP INC. (OLD)","Financials","Equity",3236679.5,0.020678,,712925,"125581108","US1255811085","2965549",4.54,"United States","Non-Nms Quotation Service (Nnqs)","USD",1,"-",2008-12-31
+"MAS","MASCO CORP","Industrials","Equity",7939040.13,0.05072,,713301,"574599106","US5745991068","2570200",11.13,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"CAH","CARDINAL HEALTH INC","Health Care","Equity",24633882.1,0.157379,,714647,"14149Y108","US14149Y1082","2175672",34.47,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"PCG","PG&E CORP","Utilities","Equity",27770089.48,0.177416,,717388,"69331C108","US69331C1080","2689560",38.71,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"LTR","LOEWS CORP","Financials","Equity",20321807,0.129831,,719356,"540424108","US5404241086","5910966",28.25,"United States","Boerse Duesseldorf","USD",1,"-",2008-12-31
+"PCAR","PACCAR INC","Industrials","Equity",20613707.4,0.131696,,720759,"693718108","US6937181088","2665861",28.6,"United States","NASDAQ","USD",1,"-",2008-12-31
+"HBAN","HUNTINGTON BANCSHARES INC","Financials","Equity",5547073.26,0.035439,,724161,"446150104","US4461501045","2445966",7.66,"United States","NASDAQ","USD",1,"-",2008-12-31
+"NSC","NORFOLK SOUTHERN CORP","Industrials","Equity",34628847.05,0.221235,,736001,"655844108","US6558441084","2641894",47.05,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"PPL","PPL CORP","Utilities","Equity",22871262.15,0.146118,,745235,"69351T106","US69351T1060","2680905",30.69,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"FCX*","FREEPORT MCMORAN INC","Materials","Equity",18347425.72,0.117217,,750713,"35671D857","US35671D8570","B1LJSV9",24.44,"United States","Bolsa Mexicana De Valores","USD",1,"-",2008-12-31
+"IVZ","INVESCO LTD","Financials","Equity",11048679.36,0.070587,,765144,"-","BMG491BT1088","B28XP76",14.44,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"GD","GENERAL DYNAMICS CORP","Industrials","Equity",44624590.53,0.285095,,774867,"369550108","US3695501086","2365161",57.59,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"COF","CAPITAL ONE FINANCIAL CORP","Financials","Equity",24822378.71,0.158584,,778375,"14040H105","US14040H1059","2654461",31.89,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"NKE","NIKE INC CLASS B","Consumer Discretionary","Equity",39767811,0.254066,,779761,"654106103","US6541061031","2640147",51,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"CA","CA INC","Information Technology","Equity",14486605.76,0.092551,,781792,"12673P105","US12673P1057","2214832",18.53,"United States","NASDAQ","USD",1,"-",2008-12-31
+"ITW","ILLINOIS TOOL INC","Industrials","Equity",27422489.1,0.175195,,782382,"452308109","US4523081093","2457552",35.05,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"CSX","CSX CORP","Industrials","Equity",25459012.66,0.162651,,784078,"126408103","US1264081035","2160753",32.47,"United States","NASDAQ","USD",1,"-",2008-12-31
+"TLAB","TELLABS INC.","Information Technology","Equity",3246180.96,0.020739,,787908,"879664100","US8796641004","2881537",4.12,"United States","NASDAQ","USD",1,"-",2008-12-31
+"AMT","AMERICAN TOWER CORP.","Telecommunication Services","Equity",23115653.44,0.14768,,788392,"029912201","US029912012","2253608",29.32,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"AEP","AMERICAN ELECTRIC POWER INC","Utilities","Equity",26691624.96,0.170526,,802032,"025537101","US0255371017","2026242",33.28,"United States","NASDAQ","USD",1,"-",2008-12-31
+"NEE","NEXTERA ENERGY INC","Utilities","Equity",40883713.29,0.261195,,812313,"65339F101","US65339F1012","2328915",50.33,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"KMB","KIMBERLY CLARK CORP","Consumer Staples","Equity",43369420.5,0.277076,,822325,"494368103","US4943681035","2491839",52.74,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"RTN1","RAYTHEON","Industrials","Equity",42006022.08,0.268365,,823002,"755111507","US7551115071","7433803",51.04,"United States","Xetra","USD",1,"-",2008-12-31
+"THC","TENET HEALTHCARE CORP.","Health Care","Equity",947138.89,0.006051,,823599,"88033G100","US88033G1004","2626879",1.15,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"TJX","TJX INC","Consumer Discretionary","Equity",17021428.16,0.108745,,827488,"872540109","US8725401090","2989301",20.57,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"NOV","NOV INC","Energy","Equity",20270511.56,0.129503,,829399,"637071101","US6370711011","2624486",24.44,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"TMO","THERMO FISHER SCIENTIFIC INC","Health Care","Equity",28454207.83,0.181786,,835169,"883556102","US8835561023","2886907",34.07,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"M","MACYS INC","Consumer Discretionary","Equity",8677326.19,0.055437,,838389,"55616P104","US55616P1049","2345022",10.35,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"PRU*","PRUDENTIAL FINANCIAL INC","Financials","Equity",25502038.64,0.162926,,842764,"744320102","US7443201022","B29FB62",30.26,"United States","Bolsa Mexicana De Valores","USD",1,"-",2008-12-31
+"AVP","AVON PRODUCTS INC","Consumer Staples","Equity",20358624.51,0.130066,,847217,"054303102","US0543031027","2066721",24.03,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"IP","INTERNATIONAL PAPER","Materials","Equity",10006659.6,0.06393,,848022,"460146103","US4601461035","2465254",11.8,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"DE","DEERE","Industrials","Equity",32521226,0.207769,,848675,"244199105","US2441991054","2261203",38.32,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"SWY","SAFEWAY INC","Consumer Staples","Equity",20251041.66,0.129379,,851958,"786514208","US7865142084","2767165",23.77,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"COST","COSTCO WHOLESALE CORP","Consumer Staples","Equity",45044055,0.287775,,857982,"22160K105","US22160K1051","2701271",52.5,"United States","NASDAQ","USD",1,"-",2008-12-31
+"STT","STATE STREET CORP","Financials","Equity",33762327.21,0.215699,,858437,"857477103","US8574771031","2842040",39.33,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"CCL","CARNIVAL CORP","Consumer Discretionary","Equity",21121482.24,0.13494,,868482,"143658300","PA1436583006","2523044",24.32,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"GNW","GENWORTH FINANCIAL A INC","Financials","Equity",2458876.63,0.015709,,868861,"37247D106","US37247D1063","B011WL6",2.83,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"WIN","WINDSTREAM CORP.","Telecommunication Services","Equity",8049990.8,0.051429,,874999,"97381W104","US97381W1045","B180376",9.2,"United States","NASDAQ","USD",1,"-",2008-12-31
+"DVN","DEVON ENERGY CORP","Energy","Equity",57695745.56,0.368603,,878036,"25179M103","US25179M1036","2480677",65.71,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"GS","GOLDMAN SACHS GROUP INC","Financials","Equity",74168598.81,0.473843,,878879,"38141G104","US38141G1040","2407966",84.39,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"BRCM","BROADCOM CORP CLASS A","Information Technology","Equity",14978400.84,0.095693,,882640,"111320107","US1113201073","2235822",16.97,"United States","NASDAQ","USD",1,"-",2008-12-31
+"CAG","CONAGRA BRANDS INC","Consumer Staples","Equity",14664771,0.093689,,888774,"205887102","US2058871029","2215460",16.5,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"XEL","XCEL ENERGY INC","Utilities","Equity",16554428.1,0.105762,,892422,"98389B100","US98389B1008","2614807",18.55,"United States","NASDAQ","USD",1,"-",2008-12-31
+"NEM","NEWMONT","Materials","Equity",36749169.6,0.234781,,902928,"651639106","US6516391066","2636607",40.7,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"TEL","TYCO ELECTRONICS LTD.","Information Technology","Equity",14746561.31,0.094212,,909720,"-","BMG9144P1059","B1YRRS0",16.21,"Switzerland","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"CELG","CELGENE CORP","Health Care","Equity",50340621.44,0.321613,,910648,"151020104","US1510201049","2182348",55.28,"United States","NASDAQ","USD",1,"-",2008-12-31
+"AAZ","ANADARKO PETROLEUM CORP","Energy","Equity",35175641.4,0.224728,,912468,"032511107","US0325111070","5864676",38.55,"United States","Boerse Berlin","USD",1,"-",2008-12-31
+"AET","AETNA INC","Health Care","Equity",26121504,0.166883,,916544,"00817Y108","US00817Y1082","2695921",28.5,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"YUM","YUM BRANDS INC","Consumer Discretionary","Equity",28962864,0.185036,,919456,"988498101","US9884981013","2098876",31.5,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"8686","AFLAC INC","Financials","Equity",42472501.92,0.271346,,926538,"001055102","US0010551028","6028824",45.84,"United States","Tokyo Stock Exchange","USD",1,"-",2008-12-31
+"GPS","GAP INC","Consumer Discretionary","Equity",12409169.11,0.079279,,926749,"364760108","US3647601083","2360326",13.39,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"SLM","SLM CORP","Financials","Equity",8282607,0.052915,,930630,"78442P106","US78442P1066","2101967",8.9,"United States","NASDAQ","USD",1,"-",2008-12-31
+"TYC","TYCO INTERNATIONAL LTD.","Industrials","Equity",20301991.2,0.129704,,939907,"-","BMG9143X2082","B1YW9H8",21.6,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"IPG","INTERPUBLIC GROUP OF COMPANIES INC","Consumer Discretionary","Equity",3731064.48,0.023837,,942188,"460690100","US4606901001","2466321",3.96,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"DC7","DISCOVER FINANCIAL SERVICES","Financials","Equity",9078449.71,0.058,,952618,"254709108","US2547091080","B1ZB327",9.53,"United States","Boerse Berlin","USD",1,"-",2008-12-31
+"WM","WASTE MANAGEMENT INC","Industrials","Equity",32309809.86,0.206419,,974949,"94106L109","US94106L1098","2937667",33.14,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"KEY","KEYCORP","Financials","Equity",8369792.4,0.053472,,982370,"493267108","US4932671088","5700606",8.52,"United States","Boerse Berlin","USD",1,"-",2008-12-31
+"MHS","MEDCO HEALTH SOLUTIONS INC","Health Care","Equity",41486541.36,0.265046,,989896,"58405U102","US58405U1025","2954019",41.91,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"COV","COVIDIEN LTD.","Health Care","Equity",36270332.88,0.231722,,1000837,"-","BMG2552X1083","B1YR434",36.24,"Bermuda","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"CL","COLGATE-PALMOLIVE","Consumer Staples","Equity",68754530.2,0.439254,,1003130,"194162103","US1941621039","2209106",68.54,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"PEG","PUBLIC SERVICE ENTERPRISE GROUP IN","Utilities","Equity",29341752.96,0.187457,,1005888,"744573106","US7445731067","2707677",29.17,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"UNP","UNION PACIFIC CORP","Industrials","Equity",48112659.8,0.307379,,1006541,"907818108","US9078181081","2914734",47.8,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"ADP","AUTOMATIC DATA PROCESSING INC","Information Technology","Equity",39707789.66,0.253683,,1009349,"053015103","US0530151036","2065308",39.34,"United States","NASDAQ","USD",1,"-",2008-12-31
+"ANTM","WELLPOINT INC","Health Care","Equity",42622120.53,0.272301,,1011681,"94973V107","US94973V1070","2794743",42.13,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"DYNIQ","DYNEGY INC.","Utilities","Equity",2030768,0.012974,,1015384,"26817G300","US26817G3002","B1VVRG3",2,"United States","Non-Nms Quotation Service (Nnqs)","USD",1,"-",2008-12-31
+"MMC","MARSH & MCLENNAN INC","Financials","Equity",24796683.27,0.158419,,1021701,"571748102","US5717481023","2567741",24.27,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"VLO","VALERO ENERGY CORP","Energy","Equity",22192685.6,0.141783,,1025540,"91913Y100","US91913Y1001","2041364",21.64,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"HCBK","HUDSON CITY BANCORP INC","Financials","Equity",16532118.12,0.105619,,1035847,"443683107","US4436831071","2437952",15.96,"United States","NASDAQ","USD",1,"-",2008-12-31
+"HST","HOST HOTELS & RESORTS REIT INC","Financials","Equity",7881588.77,0.050353,,1041161,"44107P104","US44107P1049","2567503",7.57,"United States","NASDAQ","USD",1,"-",2008-12-31
+"JNPR","JUNIPER NETWORKS INC","Information Technology","Equity",18377042.67,0.117406,,1049517,"48203R104","US48203R1041","2431846",17.51,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"ADBE","ADOBE INC","Information Technology","Equity",22464824.78,0.143522,,1055182,"00724F101","US00724F1012","2008154",21.29,"United States","NASDAQ","USD",1,"-",2008-12-31
+"ALL","ALLSTATE CORP","Financials","Equity",34896803.76,0.222946,,1065226,"020002101","US0200021014","2019952",32.76,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"NVDA","NVIDIA CORP","Information Technology","Equity",8616863.61,0.055051,,1067765,"67066G104","US67066G1040","2379504",8.07,"United States","NASDAQ","USD",1,"-",2008-12-31
+"CHK","CHESAPEAKE ENERGY CORP","Energy","Equity",17380809.6,0.111041,,1074880,"165167107","US1651671075","2182779",16.17,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"SOV","SOVEREIGN BANCORP INC.","Financials","Equity",3207803.14,0.020494,,1076444,"845905108","US8459051087","2822600",2.98,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"DTV","DIRECTV GROUP INC.","Consumer Discretionary","Equity",24866422.36,0.158865,,1085396,"25459L106","US25459L1061","2226064",22.91,"United States","NASDAQ","USD",1,"-",2008-12-31
+"MON","MONSANTO","Materials","Equity",76613612.25,0.489464,,1089035,"61166W101","US61166W1018","2654320",70.35,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"TFC","TRUIST FINANCIAL CORP","Financials","Equity",30151629.2,0.192631,,1098020,"054937107","US0549371070","2830904",27.46,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"ETFC","E TRADE FINANCIAL CORP","Financials","Equity",1274267.85,0.008141,,1108059,"269246401","US2692464017","2299011",1.15,"United States","NASDAQ","USD",1,"-",2008-12-31
+"FITB","FIFTH THIRD BANCORP","Financials","Equity",9468875.78,0.060494,,1146353,"316773100","US3167731005","2336747",8.26,"United States","NASDAQ","USD",1,"-",2008-12-31
+"XTO","XTO ENERGY INC","Energy","Equity",40432575.75,0.258313,,1146373,"98385X106","US98385X1063","2236911",35.27,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"WMB","WILLIAMS INC","Energy","Equity",16652709.52,0.10639,,1150049,"969457100","US9694571004","5727371",14.48,"United States","Deutsche Boerse Xetra","USD",1,"-",2008-12-31
+"D","DOMINION ENERGY INC","Utilities","Equity",41409428.48,0.264554,,1155397,"25746U109","US25746U1097","2542049",35.84,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"PA9","TRAVELERS COMPANIES INC","Financials","Equity",52514218.79,0.335499,,1161819,"89417E109","US89417E1091","5828263",45.2,"United States","Boerse Muenchen","USD",1,"-",2008-12-31
+"JCI","JOHNSON CONTROLS INC","Consumer Discretionary","Equity",21444617.36,0.137004,,1180871,"478366107","US4783661071","2476803",18.16,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"SYY","SYSCO CORP","Consumer Staples","Equity",27317548.44,0.174525,,1190826,"871829107","US8718291078","2868165",22.94,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"CAT","CATERPILLAR INC","Industrials","Equity",53560357.41,0.342183,,1199023,"149123101","US1491231015","4516310",44.67,"United States","SIX Swiss Exchange","USD",1,"-",2008-12-31
+"AMD","ADVANCED MICRO DEVICES INC","Information Technology","Equity",2594211.84,0.016574,,1201024,"007903107","US0079031078","2007849",2.16,"United States","NASDAQ","USD",1,"-",2008-12-31
+"MTLQQ","MOTORS LIQUIDATION CO","Consumer Discretionary","Equity",3874134.4,0.024751,,1210667,"62010A105","US62010A1051","2365804",3.2,"United States","Non-Nms Quotation Service (Nnqs)","USD",1,"-",2008-12-31
+"SE","SPECTRA ENERGY CORP","Energy","Equity",19116292.96,0.122129,,1214504,"847560109","US8475601097","B1L60G9",15.74,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"VIAB","VIACOM INC CLASS B","Consumer Discretionary","Equity",23244737.36,0.148504,,1219556,"92553P201","US92553P2011","B0SRLF4",19.06,"United States","NASDAQ","USD",1,"-",2008-12-31
+"BAX","BAXTER INTERNATIONAL INC","Health Care","Equity",66055891.44,0.422014,,1232616,"071813109","US0718131099","4514626",53.59,"United States","SIX Swiss Exchange","USD",1,"-",2008-12-31
+"ADM*","ARCHER DANIELS MIDLAND","Consumer Staples","Equity",36756116.58,0.234825,,1274926,"039483102","US0394831020","B1SNWD4",28.83,"United States","Bolsa Mexicana De Valores","USD",1,"-",2008-12-31
+"LSI","LSI CORP","Information Technology","Equity",4233496.33,0.027047,,1286777,"502161102","US5021611026","2498993",3.29,"United States","NASDAQ","USD",1,"-",2008-12-31
+"KR","KROGER","Consumer Staples","Equity",34247616.47,0.218799,,1296767,"501044101","US5010441013","2497406",26.41,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"EXC","EXELON CORP","Utilities","Equity",72714468.19,0.464553,,1307579,"30161N101","US30161N1019","2670519",55.61,"United States","NASDAQ","USD",1,"-",2008-12-31
+"AES","AES CORP","Utilities","Equity",11004964.96,0.070308,,1335554,"00130H105","US00130H1059","2002479",8.24,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"PGR","PROGRESSIVE CORP","Financials","Equity",19886068.26,0.127047,,1342746,"743315103","US7433151039","2705024",14.81,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"WFT","WEATHERFORD INTERNATIONAL LTD.","Energy","Equity",14645930.36,0.093569,,1353598,"-","BMG950891017","2962421",10.82,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"CBS","CBS CORP CLASS B","Consumer Discretionary","Equity",11086139.7,0.070826,,1353619,"124857202","US1248572026","B0SRLH6",8.19,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"RN7","REGIONS FINANCIAL CORP","Financials","Equity",10946838.71,0.069936,,1375231,"7591EP100","US7591EP1005","B01SFL8",7.96,"United States","Boerse Muenchen","USD",1,"-",2008-12-31
+"MMM","3M","Industrials","Equity",79248000.72,0.506294,,1377268,"88579Y101","US88579Y1010","2595708",57.54,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"EP","EL PASO CORP.","Energy","Equity",10911731.4,0.069712,,1393580,"28336L109","US28336L1098","2295945",7.83,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"MRO","MARATHON OIL CORP","Energy","Equity",38365286.4,0.245106,,1402240,"565849106","US5658491064","2910970",27.36,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"SLE","SARA LEE CORP.","Consumer Staples","Equity",13754117.85,0.087871,,1404915,"803111103","US8031111037","2217109",9.79,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"SPLS","STAPLES INC","Consumer Discretionary","Equity",25407065.6,0.162319,,1417805,"855030102","US8550301027","2841489",17.92,"United States","NASDAQ","USD",1,"-",2008-12-31
+"WU","WESTERN UNION","Information Technology","Equity",20398047.72,0.130318,,1422458,"959802109","US9598021098","B1F76F9",14.34,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"ALD","HONEYWELL INTERNATIONAL INC","Industrials","Equity",47392501.59,0.302778,,1443573,"438516106","US4385161066","4020822",32.83,"United States","Boerse Berlin","USD",1,"-",2008-12-31
+"BA","BOEING","Industrials","Equity",62153335.35,0.397081,,1456605,"097023105","US0970231058","2108601",42.67,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"SBUX","STARBUCKS CORP","Consumer Discretionary","Equity",13819773.44,0.088291,,1460864,"855244109","US8552441094","2842255",9.46,"United States","NASDAQ","USD",1,"-",2008-12-31
+"LUV","SOUTHWEST AIRLINES","Industrials","Equity",12647936.36,0.080804,,1467278,"844741108","US8447411088","2831543",8.62,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"JAVA","SUN MICROSYSTEMS","Information Technology","Equity",5609567.06,0.035838,,1468473,"866810203","US8668102036","2859954",3.82,"United States","NASDAQ","USD",1,"-",2008-12-31
+"TGT","TARGET CORP","Consumer Discretionary","Equity",51660920.01,0.330048,,1496117,"87612E106","US87612E1064","2259101",34.53,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"MU","MICRON TECHNOLOGY INC","Information Technology","Equity",4011411.36,0.025628,,1519474,"595112103","US5951121038","2588184",2.64,"United States","NASDAQ","USD",1,"-",2008-12-31
+"EMR","EMERSON ELECTRIC","Industrials","Equity",55817582.94,0.356604,,1524654,"291011104","US2910111044","2313405",36.61,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"SO","SOUTHERN","Utilities","Equity",56957689,0.363888,,1539397,"842587107","US8425871071","2829601",37,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"MWZ","METLIFE INC","Financials","Equity",54983457.9,0.351275,,1577265,"59156R108","US59156R1086","5949841",34.86,"United States","Deutsche Boerse Xetra","USD",1,"-",2008-12-31
+"AA","ALCOA INC","Materials","Equity",17909581.74,0.11442,,1590549,"013817101","US0138171014","2021805",11.26,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"OXY","OCCIDENTAL PETROLEUM CORP","Energy","Equity",96564823.18,0.616927,,1609682,"674599105","US6745991058","2655408",59.99,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"SYMC","SYMANTEC INC","Information Technology","Equity",22462709.36,0.143508,,1661443,"871503108","US8715031089","2861078",13.52,"United States","NASDAQ","USD",1,"-",2008-12-31
+"XRX","XEROX CORP","Information Technology","Equity",13712225.6,0.087604,,1720480,"984121103","US9841211033","2985202",7.97,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"AAPL*","APPLE INC","Information Technology","Equity",150792453.9,0.963373,,1766754,"037833100","US0378331005","B011001",85.35,"United States","Bolsa Mexicana De Valores","USD",1,"-",2008-12-31
+"HAL","HALLIBURTON","Energy","Equity",32292370.45,0.206307,,1776258,"406216101","US4062161017","2405302",18.18,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"DD","E I DU PONT DE NEMOURS","Materials","Equity",45372185.1,0.289871,,1793367,"263534109","US2635341090","2018175",25.3,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"GILD","GILEAD SCIENCES INC","Health Care","Equity",93500745.06,0.597351,,1828329,"375558103","US3755581036","2369174",51.14,"United States","NASDAQ","USD",1,"-",2008-12-31
+"DOW","DOW CHEMICAL","Materials","Equity",27703851.72,0.176993,,1835908,"260543103","US2605431038","2278719",15.09,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"SWG","CHARLES SCHWAB CORP","Financials","Equity",30070120.08,0.19211,,1859624,"808513105","US8085131055","B1BTQ59",16.17,"United States","Deutsche Boerse Xetra","USD",1,"-",2008-12-31
+"UTX","RAYTHEON TECHNOLOGIES CORP","Industrials","Equity",101274627.2,0.647017,,1889452,"913017109","US9130171096","2915500",53.6,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"WAG","WALGREEN","Consumer Staples","Equity",48534647.85,0.310075,,1967355,"931422109","US9314221097","2934839",24.67,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"UPS","UNITED PARCEL SERVICE INC CLASS B","Industrials","Equity",109104880.36,0.697042,,1977971,"911312106","US9113121068","2517382",55.16,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"LLY","ELI LILLY","Health Care","Equity",80079432.01,0.511606,,1988563,"532457108","US5324571083","2516152",40.27,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"AMGN","AMGEN INC","Health Care","Equity",121611220.5,0.776942,,2105822,"031162100","US0311621009","2023607",57.75,"United States","NASDAQ","USD",1,"-",2008-12-31
+"MS","MORGAN STANLEY","Financials","Equity",33859156.8,0.216317,,2110920,"617446448","US6174464486","2262314",16.04,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"EBAY","EBAY INC","Information Technology","Equity",29763739.08,0.190153,,2132073,"278642103","US2786421030","2293819",13.96,"United States","NASDAQ","USD",1,"-",2008-12-31
+"MCD","MCDONALDS CORP","Consumer Discretionary","Equity",137762977.05,0.880131,,2215195,"580135101","US5801351017","2550707",62.19,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"MDT","MEDTRONIC PLC","Health Care","Equity",69833400.76,0.446147,,2222578,"585055106","US5850551061","2575465",31.42,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"BK","BANK OF NEW YORK MELLON CORP","Financials","Equity",64613137.53,0.412796,,2280732,"064058100","US0640581007","B1Z77F6",28.33,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"AEC1","AMERICAN EXPRESS","Financials","Equity",42761738.25,0.273193,,2305215,"025816109","US0258161092","4028440",18.55,"United States","Boerse Berlin","USD",1,"-",2008-12-31
+"SLBA","SCHLUMBERGER LTD.","Energy","Equity",100635468.99,0.642933,,2377403,"-","AN8068571086","4779232",42.33,"United States","Euronext Amsterdam","USD",1,"-",2008-12-31
+"UNH","UNITEDHEALTH GROUP INC","Health Care","Equity",63857183.6,0.407967,,2400646,"91324P102","US91324P1021","2917766",26.6,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"DUK","DUKE ENERGY CORP.","Utilities","Equity",37745586.96,0.241147,,2514696,"26441C105","US26441C1053","B127425",15.01,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"TXN","TEXAS INSTRUMENT INC","Information Technology","Equity",39992370.56,0.255501,,2576828,"882508104","US8825081040","2885409",15.52,"United States","NASDAQ","USD",1,"-",2008-12-31
+"WYE","WYETH","Health Care","Equity",99263838.3,0.63417,,2646330,"983024100","US9830241009","2027104",37.51,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"AMAT","APPLIED MATERIAL INC","Information Technology","Equity",27010459.79,0.172563,,2666383,"038222105","US0382221051","2046552",10.13,"United States","NASDAQ","USD",1,"-",2008-12-31
+"IBM","INTERNATIONAL BUSINESS MACHINES CO","Information Technology","Equity",224718224.96,1.435665,,2670131,"459200101","US4592001014","2005973",84.16,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"AABA","ALTABA INC","Information Technology","Equity",33647014.4,0.214962,,2757952,"984332106","US9843321061","2986539",12.2,"United States","NASDAQ","USD",1,"-",2008-12-31
+"CVS","CVS HEALTH CORP","Consumer Staples","Equity",82036979.22,0.524112,,2854453,"126650100","US1266501006","2577609",28.74,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"QWST","QWEST COMMUNICATIONS INTERNATIONAL","Telecommunication Services","Equity",10599778.28,0.067719,,2912027,"749121109","US7491211097","2034494",3.64,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"LOW","LOWES COMPANIES INC","Consumer Discretionary","Equity",62689266.4,0.400505,,2913070,"548661107","US5486611073","2536763",21.52,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"KFT","KRAFT FOODS INC A","Consumer Staples","Equity",78402161.11,0.500891,,2920006,"50075N104","US50075N1046","2764296",26.85,"United States","NASDAQ","USD",1,"-",2008-12-31
+"COP","CONOCOPHILLIPS","Energy","Equity",153487026,0.980588,,2963070,"20825C104","US20825C1045","2685717",51.8,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"BSX","BOSTON SCIENTIFIC CORP","Health Care","Equity",23097321,0.147563,,2984150,"101137107","US1011371077","2113434",7.74,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"ABT","ABBOTT LABORATORIES","Health Care","Equity",164579417.28,1.051454,,3083744,"002824100","US0028241000","2002305",53.37,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"PEP","PEPSICO INC","Consumer Staples","Equity",169069293.92,1.080139,,3086896,"713448108","US7134481081","2681511",54.77,"United States","NASDAQ","USD",1,"-",2008-12-31
+"GLW","CORNING INC","Information Technology","Equity",29444250.14,0.188111,,3089638,"219350105","US2193501051","2224701",9.53,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"MER","MERRILL LYNCH & CO. INC.","Financials","Equity",37041203.76,0.236646,,3182234,"590188108","US5901881087","2580986",11.64,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"MRK","MERCK & CO INC","Health Care","Equity",55020013.1,0.351508,,3230770,"58933Y105","US58933Y1055","2778844",17.03,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"QCI","QUALCOMM INC","Information Technology","Equity",117888582.6,0.753159,,3290220,"747525103","US7475251036","5382468",35.83,"United States","Deutsche Boerse Xetra","USD",1,"-",2008-12-31
+"HD","HOME DEPOT INC","Consumer Discretionary","Equity",77570033.6,0.495574,,3369680,"437076102","US4370761029","2434209",23.02,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"DELL","DELL INC.","Information Technology","Equity",35221831.68,0.225023,,3439632,"24702R101","US24702R1014","2261526",10.24,"United States","NASDAQ","USD",1,"-",2008-12-31
+"USB","US BANCORP","Financials","Equity",87216072.48,0.5572,,3487248,"902973304","US9029733048","2736035",25.01,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"DIS","WALT DISNEY","Consumer Discretionary","Equity",83477417.6,0.533315,,3679040,"254687106","US2546871060","2270726",22.69,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"BMY","BRISTOL MYERS SQUIBB","Health Care","Equity",91476915.75,0.584422,,3934491,"110122108","US1101221083","2126335",23.25,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"KO","COCA-COLA","Consumer Staples","Equity",179019128.52,1.143706,,3954476,"191216100","US1912161007","2206657",45.27,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"PM","PHILIP MORRIS INTERNATIONAL INC","Consumer Staples","Equity",174948010.19,1.117696,,4020869,"718172109","US7181721090","B2PKRQ3",43.51,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"CVX","CHEVRON CORP","Energy","Equity",298704692.39,1.908345,,4038187,"166764100","US1667641005","2838555",73.97,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"NCC","NATIONAL CITY CORP.","Financials","Equity",7327864.64,0.046816,,4048544,"635405103","US6354051038","2625047",1.81,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"EMC","EMC CORP","Information Technology","Equity",42469513.35,0.271326,,4056305,"268648102","US2686481027","2295172",10.47,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"MO","ALTRIA GROUP INC","Consumer Staples","Equity",61670594.58,0.393997,,4094993,"02209S103","US02209S1033","2692632",15.06,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"MRK","MERCK & CO INC","Health Care","Equity",127742441.6,0.816113,,4202054,"589331107","US5893311077","2578312",30.4,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"WB","WACHOVIA CORP.","Financials","Equity",23793336.09,0.152009,,4294826,"929903102","US9299031024","2341860",5.54,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"WMT","WALMART INC","Consumer Staples","Equity",249117241.66,1.591544,,4443761,"931142103","US9311421039","2961280",56.06,"United States","Bolsa De Valores De Lima","USD",1,"-",2008-12-31
+"MOT","MOTOROLA INC","Information Technology","Equity",19952848.47,0.127473,,4504029,"620076109","US6200761095","2606600",4.43,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"NCRA","NEWS CORP. CL A","Consumer Discretionary","Equity",41549726.43,0.26545,,4570927,"65248E104","US65248E1047","B03DQ41",9.09,"United States","NASDAQ","USD",1,"-",2008-12-31
+"F","FORD MOTOR","Consumer Discretionary","Equity",10862486.76,0.069398,,4743444,"345370860","US3453708600","4232490",2.29,"United States","SIX Swiss Exchange","USD",1,"-",2008-12-31
+"HPQ","HEWLETT PACKARD","Information Technology","Equity",176644042.72,1.128532,,4867568,"428236103","US4282361033","2424006",36.29,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"AIG*","AMERICAN INTERNATIONAL GROUP INC","Financials","Equity",8393094.41,0.053621,,5345920,"026874784","US0268747849","B00PHX6",1.57,"United States","Bolsa Mexicana De Valores","USD",1,"-",2008-12-31
+"JNJ","JOHNSON & JOHNSON","Health Care","Equity",329932295.68,2.10785,,5514496,"478160104","US4781601046","2475833",59.83,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"VZ","VERIZON COMMUNICATIONS INC","Telecommunication Services","Equity",191382212.7,1.22269,,5645493,"92343V104","US92343V1044","2090571",33.9,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"S","SPRINT NEXTEL CORP","Telecommunication Services","Equity",10401251.51,0.066451,,5683744,"852061100","US8520611000","2922447",1.83,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"CMCSA","COMCAST CORP CLASS A","Consumer Discretionary","Equity",96617254.5,0.617262,,5723771,"20030N101","US20030N1019","2044545",16.88,"United States","NASDAQ","USD",1,"-",2008-12-31
+"PG","PROCTER & GAMBLE","Consumer Staples","Equity",366847360.22,2.34369,,5934121,"742718109","US7427181091","2704407",61.82,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"TWX","TIME WARNER INC.","Consumer Discretionary","Equity",71727950.9,0.458251,,7130015,"887317105","US8873171057","2712165",10.06,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"JPM","JPMORGAN CHASE","Financials","Equity",233890422.84,1.494264,,7418028,"-","US46625H1005","0190031",31.53,"United States","London Stock Exchange","USD",1,"-",2008-12-31
+"WFC*","WELLS FARGO","Financials","Equity",222046337.48,1.418595,,7532101,"949746101","US9497461015","B045BZ2",29.48,"United States","Bolsa Mexicana De Valores","USD",1,"-",2008-12-31
+"ORCL","ORACLE CORP","Information Technology","Equity",138041702.1,0.881912,,7785770,"68389X105","US68389X1054","2661568",17.73,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"BAC","BANK OF AMERICA CORP","Financials","Equity",140411096.32,0.897049,,9972379,"060505104","US0605051046","BHZL9B0",14.08,"United States","SIX Swiss Exchange","USD",1,"-",2008-12-31
+"XOM","EXXON MOBIL CORP","Energy","Equity",807061661.82,5.156103,,10109754,"30231G102","US30231G1022","2326618",79.83,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"0R01","CITIGROUP INC","Financials","Equity",72675392.69,0.464304,,10830908,"172967424","US1729674242","B0ZC1L8",6.71,"United States","London Stock Exchange","USD",1,"-",2008-12-31
+"INCO","INTEL CORPORATION CORP","Information Technology","Equity",162061623.46,1.035369,,11054681,"458140100","US4581401001","5923652",14.66,"United States","Euronext Amsterdam","USD",1,"-",2008-12-31
+"CSCO","CISCO SYSTEMS INC","Information Technology","Equity",189685545,1.211851,,11637150,"17275R102","US17275R1023","2198163",16.3,"United States","NASDAQ","USD",1,"-",2008-12-31
+"T","AT&T INC","Telecommunication Services","Equity",333801889.51,2.132572,,11712347,"00206R102","US00206R1023","2831811",28.5,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"BRIXX","BLK CASH FUND TSY INST CLASS","S-T Securities","Cash",3696812.61,0.023618,,13049109.1,"066922659","US0669226591","B02RW35",1,"United States","NASDAQ","USD",1,"-",2008-12-31
+"PFE","PFIZER INC","Health Care","Equity",237342867.31,1.516321,,13401630,"717081103","US7170811035","2684703",17.71,"United States","New York Stock Exchange Inc.","USD",1,"-",2008-12-31
+"MSFT","MICROSOFT CORP","Information Technology","Equity",295583586.48,1.888405,,15204917,"594918104","US5949181045","2588173",19.44,"United States","NASDAQ","USD",1,"-",2008-12-31
+"GEC","GENERAL ELECTRIC","Industrials","Equity",338180751,2.160547,,20875355,"369604103","US3696041033","5254471",16.2,"United States","Deutsche Boerse Xetra","USD",1,"-",2008-12-31
