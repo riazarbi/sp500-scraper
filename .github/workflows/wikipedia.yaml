@@ -1,7 +1,6 @@
-name: Scrape latest data
+name: Wikipedia
 
 on:
-  push:
   workflow_dispatch:
   schedule:
     - cron:  '36 * * * *'
@@ -11,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Check out this repo
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
     - name: Fetch latest data
       run: |-
         curl https://en.wikipedia.org/api/rest_v1/page/html/List_of_S%26P_500_companies  > sp500.html
