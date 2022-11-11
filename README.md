@@ -51,5 +51,5 @@ We simply run `tidyquant::tq_index("SP500")` and save the result to file. It con
 
 ## Useful links
 
-SEC ticker <-> CIK mappings : https://www.sec.gov/files/company_tickers.json
-
+SEC ticker <-> CIK mappings (clean, no completeness guarantee): https://www.sec.gov/files/company_tickers.json
+All CIK matched to entity name (messy, complete): https://www.sec.gov/Archives/edgar/cik-lookup-data.txt
